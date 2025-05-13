@@ -1,30 +1,14 @@
-# Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
+##  Backlog
 
-## Must-Haves
+### Must-Have
+- [x] Fetch data from Open-Meteo API
+- [x] Display hourly temperatures grouped by day
+- [x] Center heading and date
+- [x] Handle API errors
+- [x] Clear project structure (modules: handlers, listeners, components)
 
-> these are necessary for basic usability
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
-
-## Should-Haves
-
-> these will complete the user experience, but are not necessary
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
-
-## Could-Haves
-
-> would be really cool ... if there's time
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+### Nice-to-Have
+- [ ] Show weather icons for each hour
+- [ ] Switch between Celsius and Fahrenheit
+- [ ] User input for coordinates (latitude/longitude)

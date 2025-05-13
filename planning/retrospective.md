@@ -1,21 +1,14 @@
-# Retrospective
 
-## Stop Doing
+##  Retrospective
 
-## Continue Doing
+###  What Went Well
+- API integration was simple and reliable
+- Modular code structure improved maintainability
+- Grid layout was effective for visualizing hourly data
 
-## Start Doing
-
-## Lessons Learned
+###  What Can Improve
+- Lack of user input limits flexibility
+- No weather icons makes the UI less engaging
+- Could add loading spinner and other UX improvements
 
 ---
-
-## Strategy vs. Board
-
-### What parts of your plan went as expected?
-
-### What parts of your plan did not work out?
-
-### Did you need to add things that weren't in your strategy?
-
-### Or remove extra steps?
